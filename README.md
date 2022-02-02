@@ -20,7 +20,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL: [My solution](https://your-solution-url.com)
+- Solution URL: [My solution](https://www.frontendmentor.io/solutions/simple-site-with-scss-as-css-preprocessor-bq0kc3Odr)
 - Live Site URL: [QR Code Component](https://qr-code-fem.netlify.app/)
 
 ## My process
