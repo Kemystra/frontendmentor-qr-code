@@ -31,7 +31,7 @@ body {
         border-radius: 10px;
     }
 
-    h2 {
+    h1 {
         @include text();
         color: hsl(218, 44%, 22%);
         font-weight: 700;
