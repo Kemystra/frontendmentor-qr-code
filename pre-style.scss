@@ -37,6 +37,7 @@ body {
         font-weight: 700;
         font-size: x-large;
         margin: 0;
+        margin-top: 0.85em;
     }
 
     #body-text {
@@ -44,5 +45,8 @@ body {
         color: hsl(220, 15%, 55%);
         font-size: 15px;
         margin: 0;
+        margin-top: 1em;
+        margin-bottom: 2em;
+        padding: 0 1.2em;
     }
 }
