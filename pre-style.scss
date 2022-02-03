@@ -41,5 +41,7 @@ body {
         @include text();
         color: hsl(220, 15%, 55%);
         font-size: 15px;
+        margin: 10px;
+        padding: 10px;
     }
 }
