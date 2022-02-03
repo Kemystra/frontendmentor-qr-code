@@ -31,13 +31,13 @@ body {
         border-radius: 10px;
     }
 
-    h1 {
+    #bold-text {
         @include text();
         color: hsl(218, 44%, 22%);
         font-weight: 700;
     }
 
-    p {
+    #body-text {
         @include text();
         color: hsl(220, 15%, 55%);
         font-size: 15px;
